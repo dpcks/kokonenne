@@ -6,7 +6,7 @@
   <br>
 </p>
 
-## 프로젝트 소개
+## 💻 프로젝트 소개
 
 <p align="justify">
   
@@ -22,20 +22,172 @@
 </p>
 <br>
 
-## 배포 링크
+## ⚒️ 기술 스택
 
-  - http://18.204.15.215:8000/
+### Frontend
 
-<br>
+  <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">HTML</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">CSS</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">JavaScript</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Bootstrap</span>
+  </div>
+  </div>
 
-## 기술 스택
+### Backend
 
-  - 프론트엔드 : HTML/CSS, JavaScript, bootstrap
-  - 데이터베이스 : MySQL(AWS RDS)
-  - 백엔드 : django
-  - 데이터분석: Python, pandas, matplotlib, seaborn
-  - 머신러닝 : Sklearn, Pytorch, MLflow
-  - 배포환경 : AWS EC2
-  - Tools : Figma, GitHub, VSCode, Slack, Notion
+  <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=python" alt="python" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Python</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=django" alt="django" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Django</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">MySQL</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=dynamodb" alt="dynamodb" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">RDS</span>
+  </div>
+  </div>
 
+### AI
+
+  <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" alt="pandas" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Pandas</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" alt="matplotlib" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">matplotlib</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" alt="sklearn" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">sklearn</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" alt="seaborn" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">seaborn</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" alt="cuda" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">CUDA</span>
+  </div>
+  </div>
+
+### Infra
+
+  <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" alt="aws" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Amazone EC2</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" alt="nginx" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Nginx</span>
+  </div>
+  </div>
+
+### Tools
+
+  <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=git" alt="git" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Git</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=github" alt="github" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Github</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" alt="figma" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Figma</span>
+  </div>
+  
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" alt="vscode" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">VS code</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=slack" alt="slack" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Slack</span>
+  </div>
+
+  <div style="display: flex; flex-direction: column; align-items: center;">
+    <a href="https://go-skill-icons.vercel.app/">
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" alt="notion" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;" />
+    </a>
+    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Notion</span>
+  </div>
+  </div>
 <br>
