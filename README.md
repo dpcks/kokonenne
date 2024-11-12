@@ -24,69 +24,52 @@
 
 ## ⚒️ 기술 스택
 
-### Frontend
 
-  <div style="display: flex; flex-wrap: wrap; justify-content: left; gap: 20px; margin: 20px 0;">
+### Frontend
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">HTML</span>
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">HTML</span>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">CSS</span>
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">CSS</span>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">JavaScript</span>
+    <img src="https://skillicons.dev/icons?i=javascript" alt="JavaScript" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">JavaScript</span>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Bootstrap</span>
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">Bootstrap</span>
   </div>
 </div>
 
 ### Backend
-
-  <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
+<div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python" alt="python" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Python</span>
+    <img src="https://skillicons.dev/icons?i=python" alt="Python" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">Python</span>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=django" alt="django" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">Django</span>
+    <img src="https://skillicons.dev/icons?i=django" alt="Django" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">Django</span>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">MySQL</span>
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">MySQL</span>
   </div>
   
   <div style="display: flex; flex-direction: column; align-items: center;">
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=dynamodb" alt="dynamodb" style="width: 50px; height: 50px; background: #1a1a1a; border-radius: 8px; padding: 10px;">
-    </a>
-    <span style="margin-top: 2px; font-size: 14px; color: #fff;">RDS</span>
+    <img src="https://skillicons.dev/icons?i=aws" alt="AWS" style="width: 50px; height: 50px;">
+    <span style="margin-top: 2px; font-size: 14px;">RDS</span>
   </div>
-  </div>
+</div>
 
 ### AI
 
