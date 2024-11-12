@@ -26,6 +26,7 @@
 
 
 ### Frontend
+<div>
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
   <div style="display: flex; flex-direction: column; align-items: center;">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" style="width: 50px; height: 50px;">
@@ -47,6 +48,8 @@
     <span style="margin-top: 2px; font-size: 14px;">Bootstrap</span>
   </div>
 </div>
+</div>
+
 
 ### Backend
 <div style="display: flex; align-items: center; gap: 20px; margin: 20px 0;">
