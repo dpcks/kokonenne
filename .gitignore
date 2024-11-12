@@ -134,3 +134,9 @@ migrations/
 # 은향 가상환경
 koko_venv/
 venv_koko/
+
+## 맥북 환경설정 (예찬)
+.DS_Store
+._.DS_Store
+**/.DS_Store
+**/._.DS_Store
