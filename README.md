@@ -53,5 +53,20 @@
 |-----|--------|-------|---------|-------|--------|
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=git" width="50" height="50" alt="Git"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=github" width="50" height="50" alt="GitHub"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=figma" width="50" height="50" alt="Figma"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=vscode" width="50" height="50" alt="VS Code"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=slack" width="50" height="50" alt="Slack"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=notion" width="50" height="50" alt="Notion"> |
 
+<br>
+
+### ⭐️주요기능
+
+
 
 <br>
+
+### 시스템 아키텍처
+
+### ERD
+
+### 사이트맵
+
+
+### 사이트 시연 영상
+
