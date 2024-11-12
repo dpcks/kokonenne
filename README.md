@@ -6,6 +6,20 @@
   <br>
 </p>
 
+## 목차
+
+1. [**프로젝트 소개**](#1)
+1. [**기술 스택**](#2)
+1. [**주요 기능**](#3)
+1. [**시스템 아키텍쳐**](#4)
+2. [**ERD**](#5)
+3. [**사이트맵**](#6)
+4. [**사이트 시연영상**](#7)
+5. [**개발 기간 및 일정**](#8)
+6. [**본인 BE 기여도**](#9)
+
+<div id="1"></div>
+
 ## 💻 프로젝트 소개
 
 <p align="justify">
@@ -22,28 +36,30 @@
 </p>
 <br>
 
+<div id="2"></div>
+
 ## ⚒️ 기술 스택
 ### Frontend
 
-| HTML | CSS | JavaScript | Bootstrap |
+| HTML | CSS |  Java<br/>Script | Bootstrap |
 |------|-----|------------|-----------|
 | <img src="https://skillicons.dev/icons?i=html" width="50" height="50" alt="HTML"> | <img src="https://skillicons.dev/icons?i=css" width="50" height="50" alt="CSS"> | <img src="https://skillicons.dev/icons?i=javascript" width="50" height="50" alt="JavaScript"> | <img src="https://skillicons.dev/icons?i=bootstrap" width="50" height="50" alt="Bootstrap"> |
 
 ### Backend
 
-| Python | Django | MySQL | AWS RDS |
+| Python | Django | MySQL |  AWS<br/>RDS |
 |--------|--------|-------|---------|
 | <img src="https://skillicons.dev/icons?i=python" width="50" height="50" alt="Python"> | <img src="https://skillicons.dev/icons?i=django" width="50" height="50" alt="Django"> | <img src="https://skillicons.dev/icons?i=mysql" width="50" height="50" alt="MySQL"> | <img src="https://skillicons.dev/icons?i=aws" width="50" height="50" alt="AWS RDS"> |
 
 ### AI
 
-| Pandas | Matplotlib | Scikit-Learn | Seaborn | CUDA |
+| Pandas | Matplotlib | Scikit-<br/>Learn | Seaborn | CUDA |
 |--------|------------|--------------|---------|------|
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=pandas" width="50" height="50" alt="Pandas"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=matplotlib" width="50" height="50" alt="Matplotlib"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=sklearn" width="50" height="50" alt="Scikit-Learn"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=seaborn" width="50" height="50" alt="Seaborn"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=cuda" width="50" height="50" alt="CUDA"> |
 
 ### Infra
 
-| AWS EC2 | Nginx |
+| AWS<br/>EC2 | Nginx |
 |---------|-------|
 | <img src="https://go-skill-icons.vercel.app/api/icons?i=aws" width="50" height="50" alt="AWS EC2"> | <img src="https://go-skill-icons.vercel.app/api/icons?i=nginx" width="50" height="50" alt="Nginx"> |
 
@@ -55,7 +71,9 @@
 
 <br>
 
-## ⭐️주요기능
+<div id="3"></div>
+
+## ⭐️ 주요기능
 
 |    기능     |내용                                                                                                   |
 | :---------------:| :---------------------------------------------------------------------------------------------|
@@ -68,12 +86,49 @@
 
 <br/>
 
-## 시스템 아키텍처
+<div id="4"></div>
+
+## ⚙️ 시스템 아키텍처
+
 ![architecture](./readme_img/systemarchitecture.png)
-## ERD
 
-## 사이트맵
+<br/>
 
+<div id="5"></div>
 
-## 사이트 시연 영상
+## 📂 ERD
+
+![architecture](./readme_img/erd.png)
+
+<br/>
+
+<div id="6"></div>
+
+## 🧭 사이트맵
+
+![architecture](./readme_img/sitemap.png)
+
+<br/>
+
+<div id="7"></div>
+
+## 🔗 사이트 시연 영상
+
+### [시연영상](https://www.notion.so/Ofcourse-13ca2827cde280838f74f014d6e0ae52?pvs=4)
+
+<div id="8"></div>
+
+## 🗓️ 개발 기간 및 일정
+
+2023.01.06 - 2023.01.31
+
+<div id="9"></div>
+
+## 👨‍💻 본인 BE 기여도
+   
+   - DB 설계
+   - 데이터 수집 및 저장
+   - 서버 배포
+   - 강의 페이지 구현
+  
 
